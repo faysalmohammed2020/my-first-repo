@@ -1,0 +1,32 @@
+#zero{
+    text-align: center;
+    color: aqua;
+}
+div{
+    background-color: aquamarine;
+    text-align: justify;
+    border: 10px solid greenyellow;
+    height: 20%;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.introtitle{
+    text-align: center;
+}
+#one{
+    font-family: cursive;
+    font-weight: 400;
+    color: black;
+
+}
+#two{
+    font-family: fantasy;
+    font-weight: 600;
+    color: black;
+}
+#three{
+    font-family: monospace;
+    font-weight: 700;
+    color: coral;
+}
